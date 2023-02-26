@@ -1,0 +1,13 @@
+package day08_scanner_logical_operators;
+
+public class OrOperator {
+    public static void main(String[] args) {
+
+//
+//        int apples = 5;
+//        int orange = 10;
+//
+//        System.out.println(apples >1 || orange);
+//        System.out.println(apples >1 || orange);
+    }
+}
